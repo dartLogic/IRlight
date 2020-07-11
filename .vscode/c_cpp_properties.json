@@ -6,8 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "c:/Users/Babu/Documents/PlatformIO/Projects/IRlight/include",
-                "c:/Users/Babu/Documents/PlatformIO/Projects/IRlight/src",
+                "c:/Users/Babu/Documents/PlatformIO/Projects/IRlightWithtube/include",
+                "c:/Users/Babu/Documents/PlatformIO/Projects/IRlightWithtube/src",
                 "C:/Users/Babu/.platformio/lib/IRremote_ID4",
                 "C:/Users/Babu/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/Babu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
@@ -23,8 +23,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/Babu/Documents/PlatformIO/Projects/IRlight/include",
-                    "c:/Users/Babu/Documents/PlatformIO/Projects/IRlight/src",
+                    "c:/Users/Babu/Documents/PlatformIO/Projects/IRlightWithtube/include",
+                    "c:/Users/Babu/Documents/PlatformIO/Projects/IRlightWithtube/src",
                     "C:/Users/Babu/.platformio/lib/IRremote_ID4",
                     "C:/Users/Babu/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/Babu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
